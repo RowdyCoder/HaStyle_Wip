@@ -72,3 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# UE5 Project directories to ignore
+
+CursedTrigger/Intermediate/
+CursedTrigger/Saved/
+CursedTrigger/Content/MarketPlace/
+CursedTrigger/Content/StarterContent/
+CursedTrigger/Content/Megascans/
+CursedTrigger/Content/MSPresets/
+CursedTrigger/Content/__ExternalActors__/
+CursedTrigger/Content/__ExternalObjects__/
